@@ -1,1 +1,4 @@
 food.txt
+cheese
+tomatoes
+pizza bases
