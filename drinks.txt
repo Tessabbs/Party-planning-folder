@@ -2,4 +2,6 @@ drinks.txt
 tequila
 cloudy lemonade
 ginger beer
-dark rum-
+dark rum
+coke
+G&T
